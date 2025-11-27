@@ -1,0 +1,3 @@
+[submodule "agents-list/medical-agent"]
+	path = agents-list/medical-agent
+	url = https://github.com/MishaKlymenko/custom-medical-lms.git
